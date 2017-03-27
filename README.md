@@ -3,7 +3,7 @@ A simple utility which provides a GUI for Python's built-in hashlib module and a
 
 ## Using Hash Checker
 ### Windows
-Download the appropriate zip file for your operating system (32 bit or 64 bit). Extract the downloaded zip file by right-clicking it and selecting "Extract All...". The *.exe file is a standalone program, not an installer. The Windows executables support the following algorithms: MD4, SHA1, SHA224, SHA256, SHA384, and SHA512.
+Download the appropriate zip file for your operating system (32 bit or 64 bit). Extract the downloaded zip file by right-clicking it and selecting "Extract All...". The *.exe file is a standalone program, not an installer. The Windows executables support the following algorithms: MD5, SHA1, SHA224, SHA256, SHA384, and SHA512.
 
 ### Python >=2.7 and >=3.5
 Hash Checker is easy to run if you already have Python and PyQt5 installed. Simply run HashChecker.py from the command line by navigating to the appropriate directory and running the command "python HashChecker.py".
